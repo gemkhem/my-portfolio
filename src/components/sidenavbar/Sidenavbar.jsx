@@ -78,15 +78,15 @@ const Sidenavbar = () => {
                         Social
                     </h1>
 
-                    <Link to="/" className='w-fit italic flex items-center gap-x-2 text-base text-zinc-300 hover:text-fuchsia-500 px-3 py-2 ease-in-out duration-300'>
+                    <Link to="https://www.instagram.com/khem_2055/" target='_blank' className='w-fit italic flex items-center gap-x-2 text-base text-zinc-300 hover:text-fuchsia-500 px-3 py-2 ease-in-out duration-300'>
                         <FaInstagram size={18} />
                         <span>@instagram</span>
                     </Link>
-                    <Link to="/" className='w-fit italic flex items-center gap-x-2 text-base text-zinc-300 hover:text-blue-500 px-3 py-2 ease-in-out duration-300'>
+                    <Link to="https://www.linkedin.com/in/khem-bajgain-6331172b6/" target='_blank' className='w-fit italic flex items-center gap-x-2 text-base text-zinc-300 hover:text-blue-500 px-3 py-2 ease-in-out duration-300'>
                         <FaLinkedin size={18} />
                         <span>@linkedin</span>
                     </Link>
-                    <Link to="/" className='w-fit italic flex items-center gap-x-2 text-base text-zinc-300 hover:text-neutral-500 px-3 py-2 ease-in-out duration-300'>
+                    <Link to="https://github.com/gemkhem" target='_blank' className='w-fit italic flex items-center gap-x-2 text-base text-zinc-300 hover:text-neutral-500 px-3 py-2 ease-in-out duration-300'>
                         <FaGithub size={18} />
                         <span>@github</span>
                     </Link>
