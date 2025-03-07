@@ -4,6 +4,8 @@ import { FiMenu } from 'react-icons/fi';
 import { Link, useLocation } from 'react-router-dom';
 import sidenavbarData from '../../constants/sidenavbarData';
 
+import Logo from "../../../public/khemlogo.svg";
+
 const Sidenavbar = () => {
 
     const [isOpen, setIsOpen] = useState(false); // to open and close the sidebar
@@ -40,12 +42,12 @@ const Sidenavbar = () => {
                 </div>
 
                 {/* user profile, name, and designation */}
-                <div className="w-full flex items-center gap-x-3">
-                    <img src="https://cdn.pixabay.com/photo/2018/08/16/18/44/model-3611078_1280.jpg" alt="profile img" className="w-12 h-12 rounded-full object-cover object-center" />
+                <div className="w-full flex items-center gap-x-3 pb-8 border-b border-zinc-800">
+                    <img src={Logo} alt="profile img" className="w-12 h-12 object-contain object-center" />
 
                     <div className="space-y-0">
                         <p className="text-base font-semibold leading-6 text-zinc-50">
-                            Seema Thapa Chhetri
+                            Khem Raj Bajgain
                         </p>
                         <p className="text-sm leading-5">
                             Frontend Developer
