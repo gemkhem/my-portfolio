@@ -59,7 +59,7 @@ const Contact = () => {
                             Phone Number
                         </p>
                         <h2 className="text-base text-zinc-50 font-medium">
-                            +977-9810000000
+                            +977-9865982743
                         </h2>
                     </div>
                 </div>
