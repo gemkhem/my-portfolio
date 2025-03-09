@@ -19,10 +19,10 @@ const About = () => {
                     </div>
                     <div className="flex-1 space-y-5">
                         <p className="text-base text-zinc-300 font-normal">
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem atque ipsum ducimus aspernatur quam voluptas nobis vitae, blanditiis unde quae consequatur inventore, voluptates vero. Temporibus necessitatibus sint officia officiis a eum harum aspernatur ex tempore? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem atque ipsum ducimus aspernatur quam voluptas nobis vitae, blanditiis unde quae consequatur inventore, voluptates vero.
+                            As a frontend developer, I am ready to contribute my skills and expertise to building engaging and high-performance web applications. With a strong foundation in HTML, CSS, and JavaScript, along with experience in modern frameworks like React, I specialize in creating dynamic and user-friendly interfaces. My ability to translate design concepts into responsive and interactive experiences ensures seamless usability across devices. I am also skilled in optimizing web performance, implementing UI/UX best practices, and collaborating with backend teams to deliver complete solutions. Passionate about continuous learning, 
                         </p>
                         <p className="text-base text-zinc-300 font-normal">
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem atque ipsum ducimus aspernatur quam voluptas nobis vitae, blanditiis unde quae consequatur inventore, voluptates vero. Temporibus necessitatibus sint officia officiis a eum harum aspernatur ex tempore?
+                           I am eager to grow my expertise and contribute to innovative projects that enhance user experience and functionality.
                         </p>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ const About = () => {
                     </Link>
                 </div>
                 <p className="text-base text-zinc-300 font-normal">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem atque ipsum ducimus aspernatur quam voluptas nobis vitae, blanditiis unde quae consequatur inventore, voluptates vero. Temporibus necessitatibus sint officia officiis a eum harum aspernatur ex tempore? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem atque ipsum ducimus aspernatur quam voluptas nobis vitae, blanditiis unde quae consequatur inventore, voluptates vero. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat expedita neque adipisci earum maiores.
+                   I specialize in building responsive and user-friendly web applications with a strong focus on performance and design. With expertise in HTML, CSS, JavaScript, and modern frameworks like React, I create seamless and engaging user interfaces. I am ready for freelancing opportunities, offering high-quality frontend solutions tailored to project needs. Always eager to learn and innovate, I ensure optimized functionality, accessibility, and smooth collaboration for successful project execution.
                 </p>
 
             </div>
