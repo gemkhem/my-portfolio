@@ -2,6 +2,8 @@ import React from 'react'
 import RootLayout from '../../layout/RootLayout'
 import { Link } from 'react-router-dom'
 import { FaArrowRightLong } from 'react-icons/fa6'
+import AboutImg from '../../assets/images/about.png'
+
 
 const About = () => {
     return (
@@ -15,7 +17,7 @@ const About = () => {
             <div className="space-y-8">
                 <div className="w-full flex items-center gap-10 flex-wrap">
                     <div className="md:w-64 w-full h-auto flex items-center justify-center border border-zinc-900/40 bg-zinc-900/20 rounded-lg">
-                        <img src="https://cdn.pixabay.com/photo/2018/08/16/18/44/model-3611078_1280.jpg" alt="about img" className="w-full aspect-square rounded-lg object-cover object-center" />
+                        <img src={AboutImg} alt="about img" className="w-full aspect-square rounded-lg object-cover object-center" />
                     </div>
                     <div className="flex-1 space-y-5">
                         <p className="text-base text-zinc-300 font-normal">
