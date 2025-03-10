@@ -5,6 +5,7 @@ const Footer = () => {
     return (
         <RootLayout className={"flex items-center justify-between flex-wrap gap-2"}>
             <p className="text-sm text-zinc-500 font-normal">
+
                 © 2025 Khem Raj Bajgain
             </p>
             <p className="text-sm text-zinc-500 font-normal">
